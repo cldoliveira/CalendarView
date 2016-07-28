@@ -1,6 +1,6 @@
-package com.github.sundeepk.compactcalendarview;
+package com.github.cldoliveira.calendarview;
 
-import com.github.sundeepk.compactcalendarview.domain.Event;
+import com.github.cldoliveira.calendarview.domain.Event;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package com.github.sundeepk.compactcalendarview;
+package com.github.cldoliveira.calendarview;
 
 import android.content.Context;
 import android.content.res.TypedArray;
@@ -16,7 +16,7 @@ import android.view.VelocityTracker;
 import android.view.ViewConfiguration;
 import android.widget.OverScroller;
 
-import com.github.sundeepk.compactcalendarview.domain.Event;
+import com.github.cldoliveira.calendarview.domain.Event;
 
 import java.text.DateFormatSymbols;
 import java.util.Arrays;

@@ -1,6 +1,6 @@
-package com.github.sundeepk.compactcalendarview.comparators;
+package com.github.cldoliveira.calendarview.comparators;
 
-import com.github.sundeepk.compactcalendarview.domain.Event;
+import com.github.cldoliveira.calendarview.domain.Event;
 
 import java.util.Comparator;
 

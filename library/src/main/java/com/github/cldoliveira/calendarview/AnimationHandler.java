@@ -1,4 +1,4 @@
-package com.github.sundeepk.compactcalendarview;
+package com.github.cldoliveira.calendarview;
 
 
 import android.animation.Animator;

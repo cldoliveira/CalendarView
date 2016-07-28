@@ -1,4 +1,4 @@
-package com.github.sundeepk.compactcalendarview.domain;
+package com.github.cldoliveira.calendarview.domain;
 
 import android.support.annotation.Nullable;
 
